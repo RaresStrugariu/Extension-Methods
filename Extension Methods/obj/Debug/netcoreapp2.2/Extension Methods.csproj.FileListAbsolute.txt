@@ -1,0 +1,11 @@
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\bin\Debug\netcoreapp2.2\Extension Methods.deps.json
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\bin\Debug\netcoreapp2.2\Extension Methods.runtimeconfig.json
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\bin\Debug\netcoreapp2.2\Extension Methods.runtimeconfig.dev.json
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\bin\Debug\netcoreapp2.2\Extension Methods.dll
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\bin\Debug\netcoreapp2.2\Extension Methods.pdb
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\obj\Debug\netcoreapp2.2\Extension Methods.csprojAssemblyReference.cache
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\obj\Debug\netcoreapp2.2\Extension Methods.csproj.CoreCompileInputs.cache
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\obj\Debug\netcoreapp2.2\Extension Methods.AssemblyInfoInputs.cache
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\obj\Debug\netcoreapp2.2\Extension Methods.AssemblyInfo.cs
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\obj\Debug\netcoreapp2.2\Extension Methods.dll
+D:\teme scoala informala C# remake\extension method\Extension Methods\Extension Methods\obj\Debug\netcoreapp2.2\Extension Methods.pdb
